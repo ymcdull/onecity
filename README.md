@@ -1,5 +1,9 @@
 # Onecity 编程大赛复赛第二名
 
+## 比赛地址：
+https://www.dcjingsai.com/v2/cmptDetail.html?id=457
+![LB](./LB.png)
+
 ## 文件：
 - **Preprocess.ipynb**： 读取csv和xls文件，对同一文件按照不同的方式读取文件不同的部分以做到数据增强
 - **Get Pinyin To Chinese Map.ipynb**：通过数据分析，发现很多的表格的表头部分有拼音的首字母出现，进而准备拼音到中文的匹配
